@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://julieduyiliu.github.io/sitemap.xml
+Sitemap: https://julieduyiliu.github.io/julie/sitemap.xml

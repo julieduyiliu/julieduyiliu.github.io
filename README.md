@@ -7,13 +7,15 @@
 
 ## Work Experience
 
-**Data Analysis Intern @ Mother Cabrini Health Foundation (*Jun 2024 - Aug 2024*)**
+**Data Analysis Intern @ Mother Cabrini Health Foundation\
+(*Jun 2024 - Aug 2024*)**
 
 -   Employed R for logistic regression, PCA, and clustering analysis on healthcare datasets (NSDUH, YRBS), identifying critical health indicators and visualizing trends in substance use and healthcare disparities.
 
 -   Built interactive Shiny dashboards for data visualization, performed extensive data cleaning and transformation, and automated workflows using Git and GitHub for version control.
 
-**Data Management Student Specialist @ New York University (*Feb 2024 - Present*)**
+**Data Management Student Specialist @ New York University \
+(*Feb 2024 - Present*)**
 
 -   Provide data management support to the faculty, staff, and students of NYU, including reproducibility, version control, and work documenting.
 

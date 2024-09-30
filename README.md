@@ -1,5 +1,3 @@
-# Duyi Liu
-
 ### Education
 - Applied Statistics, MS, NYU
 - Economics, BA, IESR

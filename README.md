@@ -1,3 +1,5 @@
+## welcome :)
+
 ## Skills       
 - **Programming**: **Python** (Pandas, NumPy, Matplotlib, Seaborn, PyTorch) , **R** (Tidyverse, ggplot), **SQL**, **Stata**
 - **Data Tools**: Excel, Tableau, Git, LaTeX, Jupyter Notebooks
@@ -23,14 +25,14 @@
 -   Conduct workshops and classes on data management and version control tools like Git and Github.
 -   Develop an automatic DOI status checker using web scraping with Selenium, improving the efficiency of database maintenance.
 
+**Research Assistant @ Queering and Elevating Empirical Research (QUEER) Data Lab \
+(*Sep. 2023 – Present*)**
+- Integrated the **OpenAI API** in Python to develop models for detecting hate speech targeting LGBTQ+ individuals, improving the efficiency and accuracy of data processing workflows.
+- Led data cleaning, transformation, and standardization in **R** on LGBTQI+ survey data, ensuring high-quality datasets for a randomized controlled trial, enhancing the reliability of downstream analysis.
+- Developed and optimized **linear** and **logistic regression models** to analyze satisfaction trends across demographic groups.
+
+
 ## Projects
-
+### Discovering and Mitigating Potential Gender Bias in Machine Learning
 ### Droughts, Income Shock and Marriage Age – Empirical Evidence from CHARLS
-
--    Cleaned and process data of 10,000+ households in CHARLS (China Health and Retirement Longitudinal Study); extracted and calculated individual bride price data and join it into 60+ years of drought data by region.
-
--   Created a heatmap of the distribution of bride price using Tableau; used drought as an instrument for household income shocks and ran an IV regression analysis to investigate the causal relationship of household income changes on girls’ age of marriage.
-
--   The results show that with 1 unit of decrease in precipitation in the previous year or the current year, the girl’s marriage age will be 0.4% earlier (statistically significant at 1% level) when the bride price is relatively high.
-
 ### Internet Penetration Rate, Smartphone Usage, and Elderly Mental Health

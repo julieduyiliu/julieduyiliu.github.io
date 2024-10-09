@@ -4,9 +4,8 @@
 - **Data Science Methods**: A/B Testing \&  Experimentation, Statistics, Data Cleaning \& Wrangling, Machine Learning (eg., PCA, Decision Trees), Deep Learning, Natural Language Processing (eg., Sentiment Analysis, Topic Modeling (LDA), Statistical Inference, Survey Research
 
 ## Education
-
--   M.S., Applied Statistics \| New York University (*May 2025*)
--   B.S., Economics \| Institute for Economic and Social Research, Jinan University (*May 2023*)
+-   [M.S., Applied Statistics\| New York University](https://steinhardt.nyu.edu/degree/ms-applied-statistics-social-science-research)  (*May 2025*)
+-   [B.S., Economics \| Institute for Economic and Social Research](https://iesr.jnu.edu.cn/Home/main.htm), Jinan University (*May 2023*)
 
 ## Work Experience
 

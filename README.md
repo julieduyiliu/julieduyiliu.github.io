@@ -12,27 +12,10 @@
 **Data Analysis Intern @ Mother Cabrini Health Foundation\
 (*Jun 2024 - Aug 2024*)**
 
-**Applied data science knowledge** to guide the Foundation’s investments, enabling **data-driven decision-making** and monitoring the impact of investments robust data analysis.
-
-1. **Hospital Quality Analysis in New York State**
-    - Utilized **Principal Component Analysis (PCA)** to analyze hospital quality, using IQI (Inpatient Quality Indicators) and hospital staff data from Agency for Healthcare Research and Quality.
-    - Performed **data cleaning** (handling missing values, outliers, and varied data types) to prepare datasets for analysis.
-    - **Visualized** staffing trends across hospitals during and after COVID-19, identifying a temporary decrease during the pandemic followed by a recovery over time.
-    - **Machine Learning**: Used PCA to extract two dimensions—Inpatient Condition and Inpatient Procedure—out of 18 quality indicators, creating a composite for measuring hospital performance.
-    - Conducted **Principal Component Regression (PCR)** to examine the relationship between hospital quality and other hospital characteristics.
-
-2. **Data Visualization and Dashboard Development**
-    - Built **interactive dashboards** using Shiny to track and visualize key characteristics of hospitals in New York State.
-    - Enabled data exploration by tracking trends over time and providing tools to update data regularly.
-
-3. **Key Indicator Project – Mental and Behavioral Health Analysis**
-    - Conducted **Exploratory Data Analysis (EDA)** to understand mental and behavioral health trends from the National Survey of Drug Use and Health (NSDUH).
-    - Accessed data via API and open sources, transforming it into readable formats for analysis.
-    - **Feature selection**: Isolated relevant variables (e.g., substance use, demographics) from large datasets for focused analysis.
-    - Created **visualizations** of substance use patterns across demographic groups, presenting findings to internal teams for strategic planning.
-    - Performed **geospatial analysis** to approximate urban/rural county classifications in NYS using population density and CBSA definitions:
-        - Generated a **color-coded map** to visualize urban/rural classifications, identifying discrepancies in 14 rural counties misclassified as urban by NSDUH.
-
+**Applied data science knowledge** to guide the Foundation’s investments, enabling **data-driven decision-making** and monitoring the impact of investments robust data analysis.\
+- Hospital Quality Analysis in New York State using Principal Component Analysis and Principal Component Regression.
+- Data Visualization and Dashboard Development for key characteristics of hospitals in New York State.
+- Mental and Behavioral Health Analysis with EDA, feature selection and geospatial analysis.
 
 **Data Management Student Specialist @ New York University \
 (*Feb 2024 - Present*)**

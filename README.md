@@ -1,4 +1,7 @@
-#### Technical Skills: Python, SQL, R, Stata
+#### Skills:         
+- **Programming**: **Python** (Pandas, NumPy, Matplotlib, Seaborn, PyTorch) , **R** (Tidyverse, ggplot), **SQL**, **Stata**
+- **Data Tools**: Excel, Tableau, Git, LaTeX, Jupyter Notebooks
+- **Data Science Methods**: A/B Testing \&  Experimentation, Statistics, Data Cleaning \& Wrangling, Machine Learning (eg., PCA, Decision Trees), Deep Learning, Natural Language Processing (eg., Sentiment Analysis, Topic Modeling (LDA), Statistical Inference, Survey Research
 
 ## Education
 

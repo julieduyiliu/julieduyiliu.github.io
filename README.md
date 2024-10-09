@@ -19,10 +19,9 @@
 
 **Data Management Student Specialist @ New York University \
 (*Feb 2024 - Present*)**
-
--   Provide data management support to the faculty, staff, and students of NYU, including reproducibility, version control, and work documenting.
-
--   Assist, update, and conduct workshops and classes on research data management tools like git and github.
+-   Respond to inquiries to data and code management from students, faculty, and staff via consultations, Email or chat.
+-   Conduct workshops and classes on data management and version control tools like Git and Github.
+-   Develop an automatic DOI status checker using web scraping with Selenium, improving the efficiency of database maintenance.
 
 ## Projects
 

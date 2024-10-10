@@ -47,5 +47,5 @@ When I’m not buried in code or data, you can find me at movie theaters, museum
 - [LinkedIn](https://www.linkedin.com/in/julieliu2024/)
 - [GitHub](https://github.com/julieduyiliu)
 - [Website](https://julieduyiliu.github.io/)
-- Email: duyi.liu@nyu.edu
-- Email: julieliu2024@gmail.com
+- [Email (NYU)](mailto:dl4921@nyu.edu)
+- [Email (Personal)](mailto:julieduyiliu@gmail.com)

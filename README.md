@@ -30,3 +30,11 @@
 -   The results show that with 1 unit of decrease in precipitation in the previous year or the current year, the girl’s marriage age will be 0.4% earlier (statistically significant at 1% level) when the bride price is relatively high.
 
 ### Internet Penetration Rate, Smartphone Usage, and Elderly Mental Health
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/julieliu2024/)
+- [GitHub](https://github.com/julieduyiliu)
+- [Website](https://julieduyiliu.github.io/)
+- Email: duyi.liu@nyu.edu
+- Email: julieliu2024@gmail.com

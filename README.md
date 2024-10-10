@@ -1,34 +1,45 @@
-#### Technical Skills: Python, SQL, R, Stata
+## welcome :)
+Hi, I’m Duyi (doo·ee), but you can also call me Julie! I’m a Master’s student in Applied Statistics with an economics background. My research focuses on workplace discrimination, bias in machine learning, and closing gender data gaps—basically, all the cool ways data can help fight systemic discrimination!
+
+I’m now super passionate about using data science to push for inclusive sex education, women’s rights, and LGBTQIA+ equality. Right now, I’m diving into natural language processing to study how gender stereotypes show up in language.
+
+When I’m not buried in code or data, you can find me at movie theaters, museums, or parks! Fun fact: I’m also the proud mom of 10 beautiful plants!
+
+## Skills       
+- **Programming**: **Python** (Pandas, NumPy, Matplotlib, Seaborn, PyTorch) , **R** (Tidyverse, ggplot), **SQL**, **Stata**
+- **Data Tools**: Excel, Tableau, Git, LaTeX, Jupyter Notebooks
+- **Data Science Methods**: A/B Testing \&  Experimentation, Statistics, Data Cleaning \& Wrangling, Machine Learning (eg., PCA, Decision Trees), Deep Learning, Natural Language Processing (eg., Sentiment Analysis, Topic Modeling (LDA), Statistical Inference, Survey Research
 
 ## Education
-
--   M.S., Applied Statistics \| New York University (*May 2025*)\
--   B.S., Economics \| Institute for Economic and Social Research, Jinan University (*May 2023*)
+-   [M.S., Applied Statistics\| New York University](https://steinhardt.nyu.edu/degree/ms-applied-statistics-social-science-research)  (*May 2025*)
+-   [B.S., Economics \| Institute for Economic and Social Research](https://iesr.jnu.edu.cn/Home/main.htm), Jinan University (*May 2023*)
 
 ## Work Experience
 
-**Data Analysis Intern \@ Mother Cabrini Health Foundation (*Jun 2024 - Aug 2024*)**
+**Data Analysis Intern @ Mother Cabrini Health Foundation\
+(*Jun 2024 - Aug 2024*)**
 
--   Employed **R programming** for **logistic regression**, **PCA**, and **clustering analysis** on healthcare datasets (NSDUH, YRBS), identifying critical health indicators and visualizing trends in substance use and healthcare disparities.
+**Applied data science knowledge** to guide the Foundation’s investments, enabling **data-driven decision-making** and monitoring the impact of investments robust data analysis.\
+- Hospital Quality Analysis in New York State using Principal Component Analysis and Principal Component Regression.
+- Data Visualization and Dashboard Development for key characteristics of hospitals in New York State.
+- Mental and Behavioral Health Analysis with EDA, feature selection and geospatial analysis.
 
--   Built interactive **Shiny dashboards** for data visualization, performed extensive **data cleaning and transformation**, and automated workflows using **Git** and **GitHub** for version control.
+**Data Management Student Specialist @ New York University \
+(*Feb 2024 - Present*)**
+-   Respond to inquiries to data and code management from students, faculty, and staff via consultations, Email or chat.
+-   Conduct workshops and classes on data management and version control tools like Git and Github.
+-   Develop an automatic DOI status checker using web scraping with Selenium, improving the efficiency of database maintenance.
 
-**Data Management Student Specialist \@ New York University (*Feb 2024 - Present*)**
+**Research Assistant @ Queering and Elevating Empirical Research (QUEER) Data Lab \
+(*Sep. 2023 – Present*)**
+- Integrated the **OpenAI API** in Python to develop models for detecting hate speech targeting LGBTQ+ individuals, improving the efficiency and accuracy of data processing workflows.
+- Led data cleaning, transformation, and standardization in **R** on LGBTQI+ survey data, ensuring high-quality datasets for a randomized controlled trial, enhancing the reliability of downstream analysis.
+- Developed and optimized **linear** and **logistic regression models** to analyze satisfaction trends across demographic groups.
 
--   Provide data management support to the faculty, staff, and students of NYU, including reproducibility, version control, and work documenting.
-
--   Assist, update, and conduct workshops and classes on research data management tools like git and github.
 
 ## Projects
-
+### Discovering and Mitigating Potential Gender Bias in Machine Learning
 ### Droughts, Income Shock and Marriage Age – Empirical Evidence from CHARLS
-
--    Cleaned and process data of 10,000+ households in CHARLS (China Health and Retirement Longitudinal Study); extracted and calculated individual bride price data and join it into 60+ years of drought data by region.
-
--   Created a heatmap of the distribution of bride price using Tableau; used drought as an instrument for household income shocks and ran an IV regression analysis to investigate the causal relationship of household income changes on girls’ age of marriage.
-
--   The results show that with 1 unit of decrease in precipitation in the previous year or the current year, the girl’s marriage age will be 0.4% earlier (statistically significant at 1% level) when the bride price is relatively high.
-
 ### Internet Penetration Rate, Smartphone Usage, and Elderly Mental Health
 
 ## Contact

@@ -52,5 +52,5 @@ This research studies how negative income shocks affect the age of marriage of f
 
 - [LinkedIn](https://www.linkedin.com/in/julieliu2024/)
 - [GitHub](https://github.com/julieduyiliu)
-- [NYU](mailto:dl4921@nyu.edu)
-- [Personal](mailto:julieduyiliu@gmail.com)
+- [NYU](mailto:dl5334@nyu.edu)
+- [Personal](mailto:julieduyiliu2024@gmail.com)

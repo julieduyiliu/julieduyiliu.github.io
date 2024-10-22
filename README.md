@@ -8,7 +8,7 @@ When I’m not buried in code or data, you can find me at movie theaters, museum
 ## Skills       
 - **Programming**: **Python** (Pandas, NumPy, Matplotlib, Seaborn, PyTorch) , **R** (Tidyverse, ggplot), **SQL**, **Stata**
 - **Data Tools**: Excel, Tableau, Git, LaTeX, Jupyter Notebooks
-- **Data Science Methods**: A/B Testing \&  Experimentation, Statistics, Data Cleaning \& Wrangling, Machine Learning (eg., PCA, Decision Trees), Deep Learning, Natural Language Processing (eg., Sentiment Analysis, Topic Modeling (LDA), Statistical Inference, Survey Research
+- **Data Science Methods**: A/B Testing & Experimentation, Statistics, Data Cleaning & Wrangling, Machine Learning (eg., PCA, Decision Trees), Deep Learning, Natural Language Processing (eg., Sentiment Analysis, Topic Modeling (LDA), Statistical Inference, Survey Research
 
 ## Education
 -   [M.S., Applied Statistics\| New York University](https://steinhardt.nyu.edu/degree/ms-applied-statistics-social-science-research)  (*May 2025*)
@@ -19,7 +19,7 @@ When I’m not buried in code or data, you can find me at movie theaters, museum
 **Data Analysis Intern @ Mother Cabrini Health Foundation\
 (*Jun 2024 - Aug 2024*)**
 
-**Applied data science knowledge** to guide the Foundation’s investments, enabling **data-driven decision-making** and monitoring the impact of investments robust data analysis.\
+**Applied data science knowledge** to guide the Foundation’s investments, enabling **data-driven decision-making** and monitoring the impact of investments robust data analysis.
 - Hospital Quality Analysis in New York State using Principal Component Analysis and Principal Component Regression.
 - Data Visualization and Dashboard Development for key characteristics of hospitals in New York State.
 - Mental and Behavioral Health Analysis with EDA, feature selection and geospatial analysis.

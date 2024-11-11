@@ -1,9 +1,16 @@
 ---
 permalink: /
 title: "Welcome :)"
+excerpt: "About me"
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
+
 Welcome :)
+
+About me
 ==========
 
 Hi, I’m Duyi (doo·ee), but you can also call me Julie! I’m a Master’s student in Applied Statistics with an economics background. My research focuses on workplace discrimination, bias in machine learning, and closing gender data gaps—basically, all the cool ways data can help fight systemic discrimination!

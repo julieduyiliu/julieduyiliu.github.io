@@ -25,7 +25,7 @@ author:
   name             : "Julie(Duyi) Liu"
   pronouns         : "she/her"  
   bio              : "Master's student in Applied Statistics"
-  location         : "New York, NY"
+  location         : # "New York, NY"
   employer         : "New York University"
   uri              : # URL
   email            : "julieliu2024@gmail.com" 
@@ -117,7 +117,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
@@ -225,6 +225,24 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
+  # _posts
+    - scope:
+        path: ""
+        type: posts
+      values:
+        layout: single
+        author_profile: false
+        read_time: false
+        comments: false
+        share: false
+        related: false
+    # _pages
+    - scope:
+        path: ""
+        type: pages
+      values:
+        layout: single
+        author_profile: true
   # _publications
   - scope:
       path: ""
@@ -272,7 +290,7 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-# - jekyll-sitemap
+  - jekyll-sitemap
   - jemoji
 
 # Mimic GitHub Pages with --safe
@@ -280,7 +298,7 @@ whitelist:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-#  - jekyll-sitemap
+  - jekyll-sitemap
   - jemoji
 
 

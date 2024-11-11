@@ -8,11 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Welcome :)
-
-About me
-==========
-
 Hi, I’m Duyi (doo·ee), but you can also call me Julie! I’m a Master’s student in Applied Statistics with an economics background. My research focuses on workplace discrimination, bias in machine learning, and closing gender data gaps—basically, all the cool ways data can help fight systemic discrimination!
 
 I’m now super passionate about using data science to push for inclusive sex education, women’s rights, and LGBTQIA+ equality. Right now, I’m diving into natural language processing to study how gender stereotypes show up in language.

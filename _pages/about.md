@@ -2,9 +2,6 @@
 permalink: /
 title: "Welcome :)"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 Welcome :)
 ==========
@@ -16,10 +13,11 @@ I’m now super passionate about using data science to push for inclusive sex ed
 When I’m not buried in code or data, you can find me at movie theaters, museums, or parks! Fun fact: I’m also the proud mom of 10 beautiful plants!
 
 ## Skills
-- **Programming**: **Python** (Pandas, NumPy, Matplotlib, Seaborn, PyTorch), **R** (Tidyverse, ggplot), **SQL**, **Stata**
+- **Programming**: **Python** (Pandas, NumPy, Matplotlib, Seaborn, PyTorch) , **R** (Tidyverse, ggplot), **SQL**, **Stata**
 - **Data Tools**: Excel, Tableau, Git, LaTeX, Jupyter Notebooks
-- **Data Science Methods**: A/B Testing & Experimentation, Statistics, Data Cleaning & Wrangling, Machine Learning (e.g., PCA, Decision Trees), Deep Learning, Natural Language Processing (e.g., Sentiment Analysis, Topic Modeling (LDA), Statistical Inference, Survey Research)
+- **Data Science Methods**: A/B Testing & Experimentation, Statistics, Data Cleaning & Wrangling, Machine Learning (eg., PCA, Decision Trees), Deep Learning, Natural Language Processing (eg., Sentiment Analysis, Topic Modeling (LDA), Statistical Inference, Survey Research
+
 
 ## Education
-- **M.S. in Applied Statistics** | [New York University](https://steinhardt.nyu.edu/degree/ms-applied-statistics-social-science-research) (*May 2025*)
-- **B.S. in Economics** | [Institute for Economic and Social Research](https://iesr.jnu.edu.cn/Home/main.htm), Jinan University (*May 2023*)
+- **M.S. in Applied Statistics**, [New York University](https://steinhardt.nyu.edu/degree/ms-applied-statistics-social-science-research) (*May 2025*)  
+- **B.S. in Economics**, [Institute for Economic and Social Research](https://iesr.jnu.edu.cn/Home/main.htm), Jinan University (*May 2023*)

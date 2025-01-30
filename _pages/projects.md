@@ -5,6 +5,10 @@ permalink: /projects/
 author_profile: true
 ---
 
+### [Unveiling and Mitigating Occupational Gender Stereotypes by Advancing Sentiment Analysis Models for Fairer Outcomes](https://github.com/julieduyiliu/DS-GA-1011-Occupational-Gender-Stereotypes)
+**Collaborators**: Mariam Abdullah, Kina Huang, Fanqi Cheng
+
+Our study highlights persistent gender bias in sentiment analysis models. Traditional models, such as BoW + Logistic Regression and BiLSTM, exhibited significant biases, aligning female terms with roles like "Secretary" and "Teacher" and male terms with "Truck Driver" and "Pilot," underscoring their reliance on biased training data. Transformer-based models, including BERT, ALBERT, RoBERTa, and GPT-4o-mini, showed substantial improvements, with non-significant Female-Male bias scores. However, residual biases persisted, particularly in professions like "Pilot" and "Nurse," reflecting underlying societal stereotypes in pre-trained embeddings.
 
 ### Discovering and Mitigating Potential Gender Bias in Machine Learning
 
